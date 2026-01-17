@@ -2,8 +2,9 @@
 
 **Gradient Flow** is a modern, web-based tool designed for designers and developers to generate beautiful, premium CSS gradients instantly. Built with simplicity and aesthetics in mind, it features a glassmorphism UI, real-time preview, and one-click code copying.
 
-![Preview](./preview.png)
-*(Note: Upload a screenshot here for better presentation)*
+![Preview](<img width="1365" height="612" alt="Ekran görüntüsü 2026-01-17 224233" src="https://github.com/user-attachments/assets/6006cc6d-6a63-4d9f-aed7-0719bd7d77ea" />
+)
+
 
 ## Features
 
@@ -50,3 +51,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](LICENSE)
+
