@@ -27,7 +27,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/gradient-flow.git
+   git clone https://github.com/Alignc0/gradient-flow.git
    ```
 2. **Open directly:**
    Simply double-click `index.html` to open it in your browser. No build steps required!
@@ -51,4 +51,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## License
 
 [MIT](LICENSE)
+
 
